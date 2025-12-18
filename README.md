@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ChanhVM103/ChanhVM103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=ChanhVM103&fontSize=80&fontAlignY=35&animation=fadeIn)
 
-Here are some ideas to get you started:
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Monorepo+Architecture;Crafting+Modern+Web+Experiences." alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+---
+
+### ⚡ The Vibe
+
+```csharp
+// Life as a Developer
+const chanh = {
+    stack: ["ReactJS", "NodeJS", "MongoDB"],
+    currently: "Building scalable apps",
+    learning: ["Docker", "Cloud Architecture"],
+    fuel: "Coffee ☕️ AND Code `< />`"
+};
