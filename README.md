@@ -14,9 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Frontend Developer passionate about building intuitive and efficient user interfaces. My journey in software development is driven by a deep interest in **design patterns** and **software architecture**, always seeking to write clean, maintainable, and scalable code.
-
-Currently focused on mastering **React ecosystem**, I'm constantly exploring modern web technologies and best practices that elevate code quality. My long-term vision is to transition into a Full-Stack Developer role, combining my frontend expertise with robust backend development skills.
+I'm a **Frontend Developer** passionate about building intuitive and efficient user interfaces. My journey in software development is driven by a deep interest in **design patterns** and **software architecture**, always seeking to write clean, maintainable, and scalable code.
 
 ---
 
@@ -36,8 +34,10 @@ Currently focused on mastering **React ecosystem**, I'm constantly exploring mod
 
 <div align="center">
   <a href="https://github.com/ChanhVM103">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ChanhVM103&show_icons=true&theme=radical&bg_color=00000000&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ChanhVM103&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&hide_rank=true"/>
+    
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChanhVM103&theme=radical&hide_border=true&background=00000000"/>
+    
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhVM103&layout=compact&theme=radical&bg_color=00000000&hide_border=true&langs_count=6"/>
   </a>
 </div>
