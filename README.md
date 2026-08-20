@@ -34,35 +34,29 @@ I'm a **Frontend Developer** passionate about building intuitive and efficient u
 
 ---
 
-### 📈 The Metrics
+### 📊 The Metrics
 
 <div align="center">
 
-  <a href="https://github.com/ChanhVM103">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=ChanhVM103&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&hide_rank=true&title_color=00D9FF&icon_color=FF4ECD&text_color=FFFFFF"
-      alt="GitHub Stats"
-    />
-  </a>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ChanhVM103&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF4ECD&text_color=FFFFFF"
+    alt="GitHub Stats"
+  />
 
-  <a href="https://github.com/ChanhVM103">
-    <img
-      width="49%"
-      src="https://github-readme-streak-stats.herokuapp.com?user=ChanhVM103&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF4ECD&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E"
-      alt="GitHub Streak"
-    />
-  </a>
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=ChanhVM103&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF4ECD&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E"
+    alt="GitHub Streak"
+  />
 
   <br/><br/>
 
-  <a href="https://github.com/ChanhVM103">
-    <img
-      width="60%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhVM103&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00D9FF&text_color=FFFFFF&langs_count=8"
-      alt="Top Languages"
-    />
-  </a>
+  <img
+    width="60%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhVM103&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"
+    alt="Top Languages"
+  />
 
   <br/><br/>
 
