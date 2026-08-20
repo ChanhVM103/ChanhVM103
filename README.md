@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;ReactJS+Specialist;Building+Pixel-Perfect+Interfaces"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;ReactJS+Specialist;Building+Pixel-Perfect+Interfaces"
     alt="Typing SVG"
   />
 </a>
@@ -41,7 +41,7 @@ I'm a **Frontend Developer** passionate about building intuitive and efficient u
   <a href="https://github.com/ChanhVM103">
     <img
       width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=ChanhVM103&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&hide_rank=true&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF"
+      src="https://github-readme-stats.vercel.app/api?username=ChanhVM103&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&hide_rank=true&title_color=00D9FF&icon_color=FF4ECD&text_color=FFFFFF"
       alt="GitHub Stats"
     />
   </a>
@@ -49,7 +49,7 @@ I'm a **Frontend Developer** passionate about building intuitive and efficient u
   <a href="https://github.com/ChanhVM103">
     <img
       width="49%"
-      src="https://github-readme-streak-stats.herokuapp.com?user=ChanhVM103&theme=radical&hide_border=true&background=0D1117&ring=39FF14&fire=FF6B6B&currStreakLabel=39FF14"
+      src="https://github-readme-streak-stats.herokuapp.com?user=ChanhVM103&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF4ECD&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E"
       alt="GitHub Streak"
     />
   </a>
@@ -59,7 +59,7 @@ I'm a **Frontend Developer** passionate about building intuitive and efficient u
   <a href="https://github.com/ChanhVM103">
     <img
       width="60%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhVM103&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=39FF14&text_color=FFFFFF&langs_count=8"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhVM103&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00D9FF&text_color=FFFFFF&langs_count=8"
       alt="Top Languages"
     />
   </a>
@@ -68,8 +68,43 @@ I'm a **Frontend Developer** passionate about building intuitive and efficient u
 
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ChanhVM103&theme=react-dark&bg_color=0D1117&hide_border=true&line=39FF14&point=FFFFFF&color=39FF14"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ChanhVM103&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00D9FF&point=FF4ECD&color=FFFFFF&title_color=00D9FF"
     alt="GitHub Activity Graph"
   />
 
 </div>
+
+<br/>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ChanhVM103/ChanhVM103/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ChanhVM103/ChanhVM103/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ChanhVM103/ChanhVM103/output/github-contribution-grid-snake-dark.svg"
+    />
+  </picture>
+
+</div>
+
+<br/>
+
+---
+
+### ✨ Fun Facts
+
+- 🎧 Coding with lo-fi beats or SoundCloud remixes
+- 🧩 Loves problem-solving and system design
+- 🚀 Always open to learning and collaboration
