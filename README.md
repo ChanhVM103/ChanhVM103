@@ -16,9 +16,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Frontend Developer** passionate about crafting intuitive, responsive, and high-performance user interfaces with **React, React Native, and TypeScript**. 
+I'm a **Frontend Developer** who loves turning complex problems into intuitive, pixel-perfect user interfaces across web and mobile platforms. 
 
-Currently, I am actively expanding my expertise into **Backend Development** (working with **Node.js, Express, NestJS, MongoDB, and Redis**) on my journey to becoming a versatile **Full-stack Engineer**. Driven by a strong interest in **design patterns** and **software architecture**, I always strive to write clean, maintainable, and scalable end-to-end code.
+While my core strength lies in crafting seamless frontend experiences, I am actively expanding my horizons into **backend engineering and system architecture**. My ultimate goal is to become a versatile **Full-Stack Engineer** capable of owning the entire lifecycle of a product—from designing responsive UIs to orchestrating scalable APIs and asynchronous background workflows.
 
 ---
 
