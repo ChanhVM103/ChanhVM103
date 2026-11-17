@@ -1,8 +1,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;ReactJS+Specialist;Building+Pixel-Perfect+Interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+React+Native+Developer;Expanding+into+Backend+Systems;Aspiring+Full-Stack+Engineer" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ChanhVM103&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -12,7 +16,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Frontend Developer** passionate about building intuitive and efficient user interfaces. My journey in software development is driven by a deep interest in **design patterns** and **software architecture**, always seeking to write clean, maintainable, and scalable code.
+I'm a **Frontend Developer** passionate about crafting intuitive, responsive, and high-performance user interfaces with **React, React Native, and TypeScript**. 
+
+Currently, I am actively expanding my expertise into **Backend Development** (working with **Node.js, Express, NestJS, MongoDB, and Redis**) on my journey to becoming a versatile **Full-stack Engineer**. Driven by a strong interest in **design patterns** and **software architecture**, I always strive to write clean, maintainable, and scalable end-to-end code.
 
 ---
 
@@ -20,7 +26,7 @@ I'm a **Frontend Developer** passionate about building intuitive and efficient u
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,js,ts,html,css,git,github,vscode,figma,vercel,docker,prisma&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,html,css,nodejs,express,nestjs,mongodb,redis,prisma,docker,git,github,vscode,postman,vercel&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -67,5 +73,5 @@ I'm a **Frontend Developer** passionate about building intuitive and efficient u
 ### ✨ Fun Facts
 
 - 🎧 Coding with lo-fi beats or SoundCloud remixes
-- 🧩 Loves problem-solving and system design
+- 🧩 Loves problem-solving, async queues, and system design
 - 🚀 Always open to learning and collaboration
